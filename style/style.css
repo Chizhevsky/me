@@ -1,5 +1,5 @@
 body {
-    background-color: #fafafa;
+    background-color: #ffffff;
 }
 
 div.ui.inverted.center.aligned.segment {
@@ -20,4 +20,13 @@ img.ui.bordered.image {
 
 div.ui.text.container {
     margin: 30px auto;
+}
+
+div.ui.middle.aligned.stackable.grid.container {
+    padding: 150px;
+}
+
+h5 {
+    color: #424242;
+    line-height: 1.8;
 }
