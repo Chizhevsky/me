@@ -41,6 +41,6 @@ p {
     font-size: 19px;
 }
 
-/*#trips i {*/
-    /*color: blue;*/
-/*}*/
+#trips img {
+    margin-bottom: 75px;
+}
