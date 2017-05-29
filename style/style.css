@@ -23,10 +23,24 @@ div.ui.text.container {
 }
 
 div.ui.middle.aligned.stackable.grid.container {
-    padding: 150px;
+    padding: 100px 0;
 }
 
-h5 {
+h1.ui.header,
+h2.ui.header,
+h3.ui.header,
+h4.ui.header{
+    font-family: 'Roboto', sans-serif;
+    color: #424242;
+}
+
+p {
     color: #424242;
     line-height: 1.8;
+    font-family: 'Roboto', sans-serif;
+    font-size: 19px;
 }
+
+/*#trips i {*/
+    /*color: blue;*/
+/*}*/
